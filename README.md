@@ -3,7 +3,7 @@ Configuration files for deploying a keras model on Heroku
 
 
 ### Aptfile :
-Downloads all the dependencies that for linux machines that are installed by apt-get
+Downloads all the dependencies required for linux machines that are installed by apt-get
 
 ### Procfile
 Command to run after model is deployed on Heroku
